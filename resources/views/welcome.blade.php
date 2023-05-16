@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Laravel</title>
+    <title>ROTAS DA API CUPONS</title>
 </head>
 <style>
     *{
@@ -47,7 +47,7 @@
     }
 </style>
 
-<body class="antialiased">
+<body class="">
     <h1>Rotas da API:</h1>
     <hr>
     <div class="rota">
